@@ -1,2 +1,2 @@
 # SOLID-examples
-A couples of examples of SOLID principles
+A couple of examples of SOLID principles
